@@ -1,4 +1,4 @@
-# Sistema de Pedidos 
+# Sistema Simples de Pedidos 
 
 Este projeto consiste em um sistema completo de gerenciamento de pedidos, clientes, produtos e operadores, composto por uma API robusta no Backend e um painel administrativo dinâmico no Frontend.
 

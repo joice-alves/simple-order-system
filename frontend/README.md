@@ -1,4 +1,4 @@
-# 💻 Frontend - Painel Principal Sistema de Pedidos
+# Frontend - Painel Principal Sistema Simples de Pedidos
 
 Este é o módulo de interface do sistema, desenvolvido em Angular para simular um painel de controle administrativo dinâmico e responsivo para o gerenciamento de pedidos.
 
