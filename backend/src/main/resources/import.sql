@@ -1,0 +1,1 @@
+INSERT INTO tb_user (name, user_name, password, active) VALUES ('Administrador', 'adm', '$2a$10$Y50DXG73xb5fDgaSchM9CuiUuCYrQfTz8vO0E7S.v4O7P0mK6v6yG', true);
