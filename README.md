@@ -8,7 +8,7 @@ O foco principal do desenvolvimento deste desafio foi a **excelência arquitetur
 
 O repositório está estruturado como um Monorepo:
 
-- **/backend**: API desenvolvida em Java 17 com Spring Boot, Spring Security (JWT) e persistência em banco de dados relacional PostgreSQL.
+- **/backend**: API desenvolvida em Java 21 com Spring Boot, Spring Security (JWT) e persistência em banco de dados relacional PostgreSQL.
 - **/frontend**: Aplicação desenvolvida em Angular com componentização moderna baseada em Standalone Components e interface construída com Angular Material.
 
 ---
@@ -16,7 +16,7 @@ O repositório está estruturado como um Monorepo:
 ## Tecnologias Utilizadas
 
 ### Backend
-- **Java 21** & **Spring Boot 3**
+- **Java 21** & **Spring Boot 4.0.6**
 - **Spring Security** & **JWT (JSON Web Tokens)** para autenticação e autorização stateless.
 - **Spring Data JPA** & **Hibernate** para mapeamento objeto-relacional.
 - **PostgreSQL** como banco de dados de produção.
@@ -43,4 +43,4 @@ Para instruções detalhadas de inicialização de cada parte do sistema, acesse
 Para realizar o login no painel principal após subir os serviços, utilize o usuário padrão pré-carregado no banco:
 
 - **Login:** `adm`
-- **Senha:** `senhasegura123` *(ou a senha que você configurou no seu banco)*
+- **Senha:** `admin123` *(ou a senha que você configurou no seu banco)*
